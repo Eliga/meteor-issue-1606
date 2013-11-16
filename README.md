@@ -12,6 +12,6 @@ Another way to get the same problem, being in a Meteor app, click on an external
 
 ---
 
-To get the bug, install the repository, lunch meteor and :
+To get the bug, install the repository, launch meteor and :
 
 "Connect, go to following link, come back and then after 5 to 10 seconds you will be disconnected..."
