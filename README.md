@@ -9,3 +9,9 @@ LogoutOtherClients on new Login works fine on other browsers or other devices lo
 But when opening a Meteor App in a second tabs on the same browser, both windows are logout. Would be better to logout only the other one (or none !?).
 
 Another way to get the same problem, being in a Meteor app, click on an external link, then comme back with the back button of the navigator, here only one tab but still logout (seems always two tabs in browser memory)
+
+---
+
+To get the bug, install the repository, lunch meteor and :
+
+"Connect, go to following link, come back and then after 5 to 10 seconds you will be disconnected..."
